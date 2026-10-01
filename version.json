@@ -1,11 +1,11 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "minOneCommeVersion": "9.0.0",
-  "zipUrl": "https://github.com/Bansho0000/ComePop_Release/releases/download/v1.0.0/ComePop-1.0.0.zip",
-  "sha256": "1adfa5a5c880a43cd035b41a7c4481d5072f2805e403b01828dcce2e3a600202",
+  "zipUrl": "https://github.com/Bansho0000/ComePop_Release/releases/download/v1.0.1/ComePop-1.0.1.zip",
+  "sha256": "f9b6f42b31b83c4aefdf2e8520dcca024022fb28c199048025c6c9898d6e2f57",
   "publishedAt": "2026-10-01",
   "notes": {
-    "ja": "v1.0.0 リリース",
-    "en": "Release v1.0.0"
+    "ja": "v1.0.1 リリース",
+    "en": "Release v1.0.1"
   }
 }
